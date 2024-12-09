@@ -1,5 +1,7 @@
 ### Welcome in my 1st project 
 
-i've made this with the knowledge i've gain in the past few months i used the following languages : HTML/CSS/JS and a little bit of JSON to store the base data in.
+i've made this project with the knowledge i've gain in the past few months.<br>
+I used the following languages: HTML/CSS/JS/ and JSON
+The project is a webshop that sells gamekey's.
 
-its a webshop that sells key's for games.
+to download my project click : [here](https://github.com/Aidari1324/1st-Project/archive/refs/heads/main.zip)
