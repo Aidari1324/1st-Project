@@ -1,4 +1,4 @@
-### Welcome in my 1st project 
+### Welcome to my 1st ever project 
 
 i've made this project with the knowledge i've gain in the past few months.<br>
 I used the following languages: HTML/CSS/JS/ and JSON
